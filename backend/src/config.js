@@ -36,7 +36,7 @@ const format = {
 };
 
 const extraMetadata = {
-  external_url: "https://sillyghostfamily", // Replace with your website or remove this line if you do not have one.
+  external_url: "https://sillyghostfamily.com", // Replace with your website or remove this line if you do not have one.
 };
 
 // NFTPort Info
