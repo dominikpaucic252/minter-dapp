@@ -7,14 +7,14 @@ const { NETWORK } = require(`${basePath}/constants/network.js`);
 const network = NETWORK.eth;
 
 // General metadata for Ethereum
-const namePrefix = "Silly Ghost Group";
+const namePrefix = "Silly Ghost Club";
 const description = "";
 const baseUri = "ipfs://NewUriToReplace"; // This will be replaced automatically
 
 // If you have selected Solana then the collection starts from 0 automatically
 const layerConfigurations = [
   {
-    growEditionSizeTo: 10000,
+    growEditionSizeTo: 100,
     layersOrder: [
       { name: "Background" },
       { name: "Body" },
@@ -36,7 +36,7 @@ const format = {
 };
 
 const extraMetadata = {
-  external_url: "https://sillyghostgroup.com", // Replace with your website or remove this line if you do not have one.
+  external_url: "https://sillyghostclub.com", // Replace with your website or remove this line if you do not have one.
 };
 
 // NFTPort Info
