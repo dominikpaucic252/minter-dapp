@@ -318,7 +318,7 @@ section {
 
 .splide {
   position: absolute;
-  top: 65px;
+  top: 100px;
   left: 0rem;
   z-index: -1;
   transform: scale(1);
