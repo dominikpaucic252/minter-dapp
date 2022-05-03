@@ -325,7 +325,7 @@ section {
 
 .splide__slide {
   border-color: #ffffff;
-  border-left: 5px;
+  border-left: 5px, 10px, 15px, 20px;
   border: solid;
 }
 
