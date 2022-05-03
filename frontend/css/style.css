@@ -88,7 +88,7 @@ header .container {
 .not-connected p {
   font-size: 1.1rem;
   font-family: var(--font-secondary);
-  line-height: 3;
+  line-height: 1.8;
 }
 
 .not-connected a {
