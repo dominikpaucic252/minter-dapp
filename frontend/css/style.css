@@ -17,10 +17,6 @@
   --card-shadow: var(--accent-color) 0px 0px 20px;
 }
 
-table { 
-  transform: scale(0.5);
- }
- 
 * {
   padding: 0;
   margin: 0;
@@ -78,7 +74,7 @@ header .container {
 
 .show-not-connected {
   opacity: 1;
-  transform: translateY(0);
+  transform: scale(0.5);
 }
 
 .not-connected h1 {
