@@ -326,7 +326,6 @@ section {
 .splide__slide {
   border: var(--accent-color) solid;
   border-width: 6px 6px;
-  transform: scale(0.5);
 }
 
 .splide__slide img {
