@@ -329,6 +329,11 @@ section {
   border: solid;
 }
 
+.splide__slide img {
+  width: 67%;
+  height: 67%;
+}
+
 /* SPINNER */
 .dot-spin {
   position: absolute;
