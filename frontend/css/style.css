@@ -318,8 +318,8 @@ section {
 
 .splide {
   position: absolute;
-  top: 100px;
-  left: 2rem;
+  top: 50px;
+  left: 1rem;
   z-index: -1;
   transform: scale(0.8);
 }
