@@ -326,19 +326,7 @@ section {
 .splide__slide {
   border-color: #ffffff;
   border-left: 5px;
-  border-image-source: url(images/slider/0.png);
   border: solid;
-}
-
-.slide_slido{
-  border: solid ;
-  border-color: #ffffff;
-
-}
-
-.splide__slide img {
-  width: 67%;
-  height: 67%;
 }
 
 /* SPINNER */
