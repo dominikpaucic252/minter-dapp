@@ -326,7 +326,7 @@ section {
 .splide__slide {
   border-color: #ffffff;
   border-left: 5px;
-  border-image-source: images/slider/0.png;
+  border-image-source: url(images/slider/0.png);
   border: solid;
 }
 
