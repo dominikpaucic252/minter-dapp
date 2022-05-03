@@ -321,7 +321,6 @@ section {
   top: 100px;
   left: 0rem;
   z-index: -1;
-  transform: scale(0.8);
 }
 
 .splide__slide {
