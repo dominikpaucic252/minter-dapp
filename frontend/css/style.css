@@ -324,8 +324,10 @@ section {
 }
 
 .splide__slide {
+  border: solid;
   border-width: 6px 6px;
   border-color: #ffffff;
+  background-origin: padding-box;
 }
 
 .splide__slide img {
