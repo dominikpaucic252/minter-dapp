@@ -323,11 +323,31 @@ section {
   z-index: -1;
 }
 
+.splidee {
+  position: absolute;
+  top: 92px;
+  left: 20rem;
+  z-index: -1;
+}
+
+
 .splide__slide {
   border: #ffffff;
 }
 
+.splide__slidee {
+  border: #ffffff;
+}
+
 .splide__slide img {
+  width: 67%;
+  height: 67%;
+  border: solid;
+  border-color: #ffffff;
+  border-left: 7px, 7px;
+}
+
+.splide__slidee img {
   width: 67%;
   height: 67%;
   border: solid;
