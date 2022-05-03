@@ -325,12 +325,12 @@ section {
 
 .splide__slide {
   border: var(--accent-color) solid;
-  border-width: 5.5px 5.5px;
+  border-width: 5px 5px;
 }
 
 .splide__slide img {
-  width: 67%;
-  height: 67%;
+  width: 68%;
+  height: 68%;
 }
 
 /* SPINNER */
