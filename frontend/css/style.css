@@ -324,7 +324,7 @@ section {
 }
 
 .splide__slide {
-  border: var(--font-code) solid;
+  border: var(#ffffff) solid;
   border-width: 6px 6px;
 }
 
