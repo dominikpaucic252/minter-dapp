@@ -327,6 +327,7 @@ section {
   border: solid;
   border-width: 6px 6px;
   border-color: #ffffff;
+  transform: scale(0.8);
 }
 
 .splide__slide img {
