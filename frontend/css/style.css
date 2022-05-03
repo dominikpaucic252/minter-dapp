@@ -327,6 +327,7 @@ section {
   border: solid;
   border-width: 6px 6px;
   border-color: #ffffff;
+  border-style: dashed;
 }
 
 .splide__slide img {
