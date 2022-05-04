@@ -379,6 +379,8 @@ section {
   border-color: #ffffff;
   border-left: 5px, 5px;
   border-radius: 10px;
+  width: 256px;
+  height: 256px;
 }
 
 /* SPINNER */
