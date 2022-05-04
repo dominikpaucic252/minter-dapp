@@ -70,7 +70,6 @@ header .container {
   opacity: 0;
   transform: translateY(10vh);
   transition: all 0.5s ease-in-out;
-  transform: scale(0.5);
 }
 
 .show-not-connected {
@@ -82,6 +81,7 @@ header .container {
   font-style: italic;
   margin: 2rem 0;
   font-size: 3.5rem;
+  height: 1000%;
 }
 
 .not-connected p {
