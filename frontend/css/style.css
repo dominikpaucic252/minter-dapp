@@ -41,6 +41,9 @@ body {
   justify-content: center;
   overflow: hidden;
   transform: scale(0.8);
+  border: solid;
+  border-color: #ffffff;
+  border-left: 5px, 5px;
 }
 
 /* HEADER */
