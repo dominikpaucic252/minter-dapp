@@ -64,7 +64,7 @@ header .container {
 /* NOT CONNECTED */
 .not-connected {
   align-items: center;
-  height: 100%;
+  height: 2000%;
   text-align: center;
   margin: 7 auto 0 35vw;
   opacity: 0;
@@ -74,7 +74,7 @@ header .container {
 
 .show-not-connected {
   opacity: 1;
-  transform: 0.8;
+  transform: scale(0.8);
 }
 
 .not-connected h1 {
@@ -96,7 +96,6 @@ header .container {
   font-size: 1.5rem;
   font-weight: bold;
 }
-
 
 /* BUTTONS */
 
@@ -380,7 +379,7 @@ section {
   border-color: #ffffff;
   border-left: 5px, 5px;
   border-radius: 10px;
-  width: 251px;
+  width: 250px;
   height: 251px;
 }
 
