@@ -6,9 +6,9 @@
 
 :root {
   --font-primary: "Poppins", sans-serif;
-  --font-secondary: "Poppins", serif;
+  --font-secondary: "Arvo", serif;
   --font-code: "Roboto", monospace;
-  --bg-color: #000000;
+  --bg-color: #312c2c;
   --bg-color-transparent: #000000;
   --font-color: #ffffff;
   --btn-bg-color: #ffffff;
@@ -40,7 +40,6 @@ body {
   padding: 1rem 2rem;
   justify-content: center;
   overflow: hidden;
-  transform: scale(0.9);
 }
 
 /* HEADER */
@@ -64,13 +63,10 @@ header .container {
 
 /* NOT CONNECTED */
 .not-connected {
-  height: 450px;
-  width: 1500px;
-  left: 100px;
-  right: 100px;
   align-items: center;
-  overflow: visible;
+  height: 100%;
   text-align: center;
+  margin: 0 auto 0 35vw;
   opacity: 0;
   transform: translateY(10vh);
   transition: all 0.5s ease-in-out;
@@ -78,16 +74,15 @@ header .container {
 
 .show-not-connected {
   opacity: 1;
-  transform: scale(0.8);
+  transform: translateY(0);
 }
 
 .not-connected h1 {
   text-shadow: 2px 2px 0 var(--accent-color);
   font-style: italic;
   margin: 2rem 0;
-  font-size: 3rem;
+  font-size: 3.5rem;
 }
-
 
 .not-connected p {
   font-size: 1.1rem;
@@ -323,69 +318,18 @@ section {
 
 .splide {
   position: absolute;
-  top: 92px;
+  top: 90px;
   left: 5rem;
   z-index: -1;
 }
 
+.splide__slide {
+  border: var(--accent-color) solid;
+  border-width: 5px 10px;
+}
+
 .splide__slide img {
-  width: 67%;
-  height: 67%;
-  border: solid;
-  border-color: #ffffff;
-  border-left: 7px, 7px;
-}
-
-.splide__slidee img {
-  position: absolute;
-  top: 120px;
-  left: 1160px;
-  border: solid;
-  border-color: #ffffff;
-  border-left: 5px, 5px;
-  border-radius: 10px;
-}
-
-.splide__slideee img {
-  position: absolute;
-  top: 120px;
-  left: 1290px;
-  border: solid;
-  border-color: #ffffff;
-  border-left: 5px, 5px;
-  border-radius: 10px;
-}
-
-.splide__slideeee img {
-  position: absolute;
-  top: 250px;
-  left: 1160px;
-  border: solid;
-  border-color: #ffffff;
-  border-left: 5px, 5px;
-  border-radius: 10px;
-}
-
-.splide__slideeeee img {
-  position: absolute;
-  top: 250px;
-  left: 1290px;
-  border: solid;
-  border-color: #ffffff;
-  border-left: 5px, 5px;
-  border-radius: 10px;
-}
-
-.splide__slideeeeee img {
-  position: absolute;
-  top: 540px;
-  left: 683px;
-  border: solid;
-  border-color: #eaff00;
-  border-left: 5px, 5px;
-  border-radius: 10px;
-  width: 160px;
-  height: 160px;
+  width: 100%;
 }
 
 /* SPINNER */
