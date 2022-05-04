@@ -331,6 +331,15 @@ section {
   border-left: 7px, 7px;
 }
 
+.splide__slidee img {
+  width: 67%;
+  height: 67%;
+  border: solid;
+  border-color: #ffffff;
+  border-left: 7px, 7px;
+}
+
+
 .splidee {
   position: absolute;
   top: 92px;
