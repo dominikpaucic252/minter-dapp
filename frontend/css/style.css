@@ -70,6 +70,9 @@ header .container {
   opacity: 0;
   transform: translateY(10vh);
   transition: all 0.5s ease-in-out;
+  border: solid;
+  border-color: #ffffff;
+  border-left: 7px, 7px;
 }
 
 .show-not-connected {
