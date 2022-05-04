@@ -74,6 +74,7 @@ header .container {
 
 .show-not-connected {
   opacity: 1;
+  transform: 0.8;
 }
 
 .not-connected h1 {
