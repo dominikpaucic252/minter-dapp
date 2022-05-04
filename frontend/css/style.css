@@ -83,7 +83,7 @@ header .container {
 .not-connected h1 {
   text-shadow: 2px 2px 0 var(--accent-color);
   font-style: italic;
-  margin: 2rem 5rem;
+  margin: 2rem 0 5rem 5rem;
   font-size: 3.5rem;
 }
 
