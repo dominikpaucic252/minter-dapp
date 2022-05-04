@@ -63,9 +63,8 @@ header .container {
 
 /* NOT CONNECTED */
 .not-connected {
-  height: 700px;
-  overflow: visible;
   align-items: center;
+  height: 100%;
   text-align: center;
   margin: 0 auto 0 35vw;
   opacity: 0;
