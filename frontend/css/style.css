@@ -64,10 +64,9 @@ header .container {
 /* NOT CONNECTED */
 .not-connected {
   height: 450px;
-  left: 500px;
   align-items: center;
   overflow: visible;
-  text-align: left;
+  text-align: center;
   margin: 7 auto 0 35vw;
   opacity: 0;
   transform: translateY(10vh);
