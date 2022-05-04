@@ -331,6 +331,13 @@ section {
   border-left: 7px, 7px;
 }
 
+.splidee {
+  position: absolute;
+  top: 92px;
+  left: 20rem;
+  z-index: -1;
+}
+
 /* SPINNER */
 .dot-spin {
   position: absolute;
