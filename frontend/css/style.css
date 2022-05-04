@@ -374,13 +374,13 @@ section {
 .splide__slideeeeee img {
   position: absolute;
   top: 400px;
-  left: 1225px;
+  left: 1190px;
   border: solid;
   border-color: #ffffff;
   border-left: 5px, 5px;
   border-radius: 10px;
-  width: 256px;
-  height: 256px;
+  width: 25px;
+  height: 250px;
 }
 
 /* SPINNER */
