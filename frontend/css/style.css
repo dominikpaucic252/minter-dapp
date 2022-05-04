@@ -64,7 +64,7 @@ header .container {
 /* NOT CONNECTED */
 .not-connected {
   align-items: center;
-  height: 5000px;
+  height: 100%;
   text-align: center;
   margin: 7 auto 0 35vw;
   opacity: 0;
@@ -96,6 +96,7 @@ header .container {
   font-size: 1.5rem;
   font-weight: bold;
 }
+
 
 /* BUTTONS */
 
