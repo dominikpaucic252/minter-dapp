@@ -23,6 +23,18 @@
   box-sizing: border-box;
 }
 
+.splide__slidee img {
+  position: absolute;
+  top: 540px;
+  left: 683px;
+  border: solid;
+  border-color: #eaff00;
+  border-left: 5px, 5px;
+  border-radius: 10px;
+  width: 160px;
+  height: 160px;
+}
+
 body {
   background-color: var(--bg-color);
   display: flex;
