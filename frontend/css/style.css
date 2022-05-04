@@ -84,15 +84,6 @@ header .container {
   font-size: 3.5rem;
 }
 
-.conn h3{
-  align-items: center;
-  height: 2000%;
-  text-align: center;
-  margin: 7 auto 0 35vw;
-  opacity: 0;
-  transform: translateY(10vh);
-  transition: all 0.5s ease-in-out;
-}
 
 .not-connected p {
   font-size: 1.1rem;
