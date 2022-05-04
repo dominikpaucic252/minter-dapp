@@ -341,6 +341,16 @@ section {
   border-radius: 10px;
 }
 
+.splide__slideee img {
+  position: absolute;
+  top: 120px;
+  left: 1300px;
+  border: solid;
+  border-color: #ffffff;
+  border-left: 5px, 5px;
+  border-radius: 10px;
+}
+
 /* SPINNER */
 .dot-spin {
   position: absolute;
