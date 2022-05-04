@@ -84,7 +84,7 @@ header .container {
   text-shadow: 2px 2px 0 var(--accent-color);
   font-style: italic;
   margin: 2rem 0;
-  font-size: 3rem;
+  font-size: 2.8rem;
 }
 
 
@@ -377,8 +377,8 @@ section {
 
 .splide__slideeeeee img {
   position: absolute;
-  top: 525px;
-  left: 650px;
+  top: 520px;
+  left: 680px;
   border: solid;
   border-color: #ffffff;
   border-left: 5px, 5px;
