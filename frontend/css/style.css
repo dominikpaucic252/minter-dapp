@@ -331,12 +331,10 @@ section {
   border-left: 7px, 7px;
 }
 
-
-.splidee {
+.splide__slide img {
   position: absolute;
-  top: 100px;
-  left: 72rem;
-  z-index: -1;
+  top: 50px;
+  left: 100px;
 }
 
 /* SPINNER */
