@@ -12,7 +12,7 @@
   --bg-color-transparent: #00000080;
   --font-color: #ffffff;
   --btn-bg-color: #ffffff;
-  --accent-color: #68aab8;
+  --accent-color: #fe3c66;
   --header-shadow: var(--accent-color) 0px 0px 5px;
   --card-shadow: var(--accent-color) 0px 0px 20px;
 }
@@ -21,19 +21,6 @@
   padding: 0;
   margin: 0;
   box-sizing: border-box;
-}
-
-.splide__slidee img {
-  position: absolute;
-  top: 660px;
-  left: 1055px;
-  border: solid;
-  border-color: #eaff00;
-  border-left: 5px, 5px;
-  border-radius: 15px;
-  width: 200px;
-  height: 200px;
-  z-index: -1;
 }
 
 body {
