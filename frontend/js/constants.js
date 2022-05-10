@@ -3,7 +3,7 @@ const chain = 'polygon'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to the Silly Ghosts NFT Project!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'The Silly Ghosts NFT project is a unique digital collection, on the Polygon Blockchain. 10,000 ghosts have been automatically generated using an algorithm, each ghost is unique, with different characteristics and rarities.';
+const welcome_p = 'Get your own unique Silly Ghost now from a total of 10,000 ghosts, after mining, your Silly Ghost will appear on OpenSea after just a few seconds. Start date: 14/05/2022/15:00 UTC';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
