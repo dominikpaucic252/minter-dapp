@@ -1,9 +1,9 @@
 const contractAddress = "0x63d806AdCF3516bbd04ae34bd44ddACa86E7C4D7"; //Replace with your own contract address
 const chain = 'polygon'; // rinkeby or polygon
 
-const welcome_h1 = "Welcome to the Silly Ghosts NFT Project!!";
+const welcome_h1 = "Welcome to the CodeCats NFT Project!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'Get your own unique Silly Ghost now from a total of 10,000 ghosts, after mining, your Silly Ghost will appear on OpenSea after just a few seconds. Consider, after you have minted once, you can not do it again. Start date: 21/05/2022/15:00 UTC';
+const welcome_p = 'The CodeCats NFT Project is a decentralized, open-source project that aims to demonstrate how to develope and launch your own NFT Collection. Follow step by step on the <a href="https://youtube.com/codestackr"  target="_blank" rel="noopener noreferrer">codeSTACKr</a> YouTube channel.';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";

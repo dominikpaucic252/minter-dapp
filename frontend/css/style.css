@@ -6,13 +6,13 @@
 
 :root {
   --font-primary: "Poppins", sans-serif;
-  --font-secondary: "Poppins", serif;
+  --font-secondary: "Arvo", serif;
   --font-code: "Roboto", monospace;
-  --bg-color: #000000;
-  --bg-color-transparent: #00000080;
+  --bg-color: #00163f;
+  --bg-color-transparent: #00163f80;
   --font-color: #ffffff;
   --btn-bg-color: #ffffff;
-  --accent-color: #fe3c66;
+  --accent-color: #be7efe;
   --header-shadow: var(--accent-color) 0px 0px 5px;
   --card-shadow: var(--accent-color) 0px 0px 20px;
 }
@@ -63,9 +63,8 @@ header .container {
 
 /* NOT CONNECTED */
 .not-connected {
-  height: 700px;
-  overflow: visible;
   align-items: center;
+  height: 100%;
   text-align: center;
   margin: 0 auto 0 35vw;
   opacity: 0;
