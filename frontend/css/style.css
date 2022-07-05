@@ -82,6 +82,7 @@ header .container {
   font-style: italic;
   margin: 2rem 0;
   font-size: 3.5rem;
+  align-content: center;
 }
 
 .not-connected p {
