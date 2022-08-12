@@ -3,7 +3,7 @@ const chain = 'polygon'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to the Silly Ghosts NFT Project!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'Get your own unique Silly Ghost now from a total of 10,000 ghosts, after mining, your Silly Ghost will appear on OpenSea after just a few seconds. Consider, after you have minted once, you can not do it again. Start date: 01/08/2022/15:00 UTC';
+const welcome_p = 'Get your own unique Silly Ghost now from a total of 10,000 ghosts, after mining, your Silly Ghost will appear on OpenSea after just a few seconds. Consider, after you have minted once, you can not do it again. Start date: 01/12/2022/15:00 UTC';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
